@@ -1,12 +1,3 @@
-#
-# Shodan IP List
-#
-# A firewall blacklist composed of Shodan scanners
-#
-# https://www.shodan.io
-#
-# Report false entries or additional entries as a pull request or issue
-#
 94.102.49.193
 94.102.49.190
 93.174.95.106
