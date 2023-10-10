@@ -1,0 +1,16 @@
+windowsupdate.microsoft.com
+*.windowsupdate.microsoft.com
+*.windowsupdate.microsoft.com
+*.update.microsoft.com
+*.update.microsoft.com
+*.windowsupdate.com
+http://download.windowsupdate.com
+https://download.microsoft.com
+http://*.download.windowsupdate.com
+http://wustat.windows.com
+http://ntservicepack.microsoft.com
+http://go.microsoft.com
+http://dl.delivery.mp.microsoft.com
+https://dl.delivery.mp.microsoft.com
+http://*.delivery.mp.microsoft.com
+https://*.delivery.mp.microsoft.com
